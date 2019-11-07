@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-by Milos Dermanovic
+A simple demo, by Milos Dermanovic, for DMIT-2018
